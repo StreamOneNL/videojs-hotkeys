@@ -1,5 +1,5 @@
 {
-  "name": "videojs-hotkeys",
+  "name": "videojs-hotkeys-s1",
   "version": "0.2.13",
   "description": "Adds more hotkey support to video.js",
   "main": "videojs.hotkeys.min.js",
